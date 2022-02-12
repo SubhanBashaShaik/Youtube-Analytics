@@ -1,0 +1,33 @@
+button#submit {
+    margin: 15px;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    color: #ffff;
+}
+
+div#text1 {
+    float: right;
+    font-size: 24px;
+    color: #337ab7;
+    padding: 0px 25px 0px 0px;
+}
+
+div#text2 {
+    float: right;
+    font-size: 24px;
+    color: #337ab7;
+    padding: 0px 25px 0px 0px;
+}
+div#text3 {
+    float: right;
+    font-size: 24px;
+    color: #337ab7;
+    padding: 0px 25px 0px 0px;
+}
+
+.h1, h1 {
+    font-size: 22px;
+    background-color: #337ab7;
+    color: black;
+    padding: 1px 0px 1px 0px;
+}
